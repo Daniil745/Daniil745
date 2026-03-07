@@ -1,17 +1,17 @@
 ### Hi there! I'm Daniil 👋
 
-I'm a Junior Go/Python developer passionate about backend development, microservices, and everything related to high-load systems.
+I'm a Junior Go developer passionate about backend development, microservices, and everything related to high-load systems. Lately, I've also been diving into frontend development with React to become a more versatile developer.
 
 ---
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 
 **Backend:**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,13 +25,13 @@ I'm a Junior Go/Python developer passionate about backend development, microserv
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ddaniil55)
 
 ---
 
-### ⚡ Fun facts about me
+### Fun facts about me
 - ✨ I code while drinking coffee
-- 📚 Currently learning microservice architecture in Go
+- 📚 Currently learning microservice architecture in Go and exploring React for frontend development
 - 🎯 Goal: Become a Middle developer within a year
