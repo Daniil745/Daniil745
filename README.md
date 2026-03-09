@@ -1,32 +1,36 @@
 ### Hi there! I'm Daniil 👋
 
-I'm a Junior FullStack developer passionate about building complete web applications from database to UI. I specialize in Go for backend development and React for creating interactive frontend experiences. I'm particularly interested in microservices architecture and high-load systems.
+I'm a **DevOps Engineer** passionate about building and maintaining robust infrastructure, automating workflows, and optimizing system performance. I specialize in containerization, CI/CD pipelines, and cloud-native technologies to ensure seamless deployment and scalability.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-**Backend:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
+**CI/CD & Automation:**
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools:**
+**Containerization & Orchestration:**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style-for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Monitoring & Logging:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+**Scripting & Programming:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -38,9 +42,9 @@ I'm a Junior FullStack developer passionate about building complete web applicat
 
 ### ⚡ More About Me
 
-- 🔭 I'm currently working on full-stack projects combining Go + React
-- 🌱 I'm deepening my knowledge of microservices architecture and modern React patterns
-- 👯 I'm looking to collaborate on interesting open-source projects
-- 💬 Ask me about Go, React, or transitioning to FullStack development
-- 📚 Currently reading: "Clean Code" by Robert Martin
-- ⚡ Fun fact: I can debug code faster with a cup of coffee ☕
+- 🔭 I'm currently working on automating infrastructure deployment and implementing GitOps practices
+- 🌱 I'm deepening my knowledge of Kubernetes operators and service mesh technologies (Istio)
+- 👯 I'm looking to collaborate on interesting open-source DevOps tools and infrastructure projects
+- 💬 Ask me about Docker, Kubernetes, CI/CD, or cloud architecture
+- 📚 Currently reading: "The Phoenix Project" by Gene Kim
+- ⚡ Fun fact: I can debug production issues faster with a cup of coffee ☕ and proper monitoring
