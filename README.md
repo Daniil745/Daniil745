@@ -1,10 +1,10 @@
-### Hi there! I'm Daniil 👋
+### Hi there! I'm Daniil 
 
 I'm a **DevOps Engineer** passionate about building and maintaining robust infrastructure, automating workflows, and optimizing system performance. I specialize in containerization, CI/CD pipelines, and cloud-native technologies to ensure seamless deployment and scalability.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **CI/CD & Automation:**
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -34,17 +34,17 @@ I'm a **DevOps Engineer** passionate about building and maintaining robust infra
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ddaniil55)
 
 ---
 
-### ⚡ More About Me
+### More About Me
 
-- 🔭 I'm currently working on automating infrastructure deployment and implementing GitOps practices
-- 🌱 I'm deepening my knowledge of Kubernetes operators and service mesh technologies (Istio)
-- 👯 I'm looking to collaborate on interesting open-source DevOps tools and infrastructure projects
-- 💬 Ask me about Docker, Kubernetes, CI/CD, or cloud architecture
-- 📚 Currently reading: "The Phoenix Project" by Gene Kim
-- ⚡ Fun fact: I can debug production issues faster with a cup of coffee ☕ and proper monitoring
+-  I'm currently working on automating infrastructure deployment and implementing GitOps practices
+-  I'm deepening my knowledge of Kubernetes operators and service mesh technologies (Istio)
+-  I'm looking to collaborate on interesting open-source DevOps tools and infrastructure projects
+-  Ask me about Docker, Kubernetes, CI/CD, or cloud architecture
+-  Currently reading: "The Phoenix Project" by Gene Kim
+-  Fun fact: I can debug production issues faster with a cup of coffee ☕ and proper monitoring
